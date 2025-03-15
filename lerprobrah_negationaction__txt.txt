@@ -1,0 +1,25 @@
+WC_data__negationaction
+
+perlHarbor__negationAction__otdTodDOT~approach:/*negateTakingAnAction_and_peoplesOwnActionsWillBeTheCreationThereof*/
+
+"LOGIC in Computer Science"~approach DEFINITION:
+
+o - (the)Occurence
+I(...) - Internal.
+	There is some existency 'o',
+		that is an {Internal}I(o) OR !{Internal}I(o).
+
+			Ε=="there Exists some."
+			Α=="for All."
+
+				Eo(Ao(I(o) V !I(o)))
+
+
+
+					<CTL>	ΑU(!Ι(ο))
+
+
+
+!I(o) => {"Mikael Vilhelm Sjögren" && "Marie-Louise Sjögren"}
+
+	
