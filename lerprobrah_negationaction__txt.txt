@@ -20,6 +20,5 @@ I(...) - Internal.
 
 
 
-!I(o) => {"Mikael Vilhelm Sjögren" && "Marie-Louise Sjögren"}
-
+!I(o) => .....
 	
